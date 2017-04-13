@@ -12,6 +12,6 @@ group :test, :development do
   gem 'jeweler'
   gem 'simplecov'
   gem 'rspec'
-  gem 'rake' 
+  gem 'rake'
   gem 'yard'
 end
